@@ -2,7 +2,7 @@
 
 # Hi, I'm Gunaj Chugh 👋
 ### 🎓 B.Tech 2027 Batch @ Jaypee Institute of Information Technology (JIIT)
-### 💻 Pre-final Year | Software Developer | ML & Cybersecurity Enthusiast
+### 💻 Pre-final Year | Software Developer | ML & Full Stack Enthusiast
 
 <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Gunaj%20Chugh&fontSize=70&animation=fadeIn" width="100%" />
 
@@ -46,12 +46,12 @@
 
 ### 🤝 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[YOUR_EMAIL]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/gunnaj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gunnajpchugh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=radical" alt="GitHub Streak" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbygunnaj&theme=radical" alt="GitHub Streak" width="100%" />
 
 </div>
