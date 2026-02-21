@@ -3,27 +3,44 @@
 # Hi, I'm Gunaj Chugh 👋
 ### 🎓 B.Tech 2027 Batch @ Jaypee Institute of Information Technology (JIIT)
 ### 💻 Pre-final Year | Software Developer | ML & Cybersecurity Enthusiast
-### 📊 CGPA: 8.63 | F10 Batch
+### 📊 CGPA: 8.63 
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Gunaj%20Chugh&fontSize=70&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=3776AB&height=200&section=header&text=Gunaj%20Chugh&fontSize=60&animation=fadeIn" width="100%" />
 
 ---
+<!-- 
+---
 
-### 📊 Combined GitHub Ecosystem
+### 📊 Combined GitHub Ecosystem  
 *Activity tracking across my primary and legacy handles*
 
+<div align="center">
+
 <table>
-  <tr>
-    <td align="center"><b>Primary: codedbygunnaj</b></td>
-    <td align="center"><b>Legacy: Gunaj0517</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=codedbygunnaj&show_icons=true&theme=radical&rank_icon=github" width="400" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Gunaj0517&show_icons=true&theme=radical&rank_icon=github" width="400" /></td>
-  </tr>
+<tr>
+<td align="center" width="50%">
+
+### 🟢 Primary  
+**codedbygunnaj**
+
+<img src="https://github-readme-stats-zeta-taupe-57.vercel.app/api?username=codedbygunnaj&show_icons=true&theme=radical&rank_icon=github" width="100%" />
+
+</td>
+
+<td align="center" width="50%">
+
+### 🔵 Legacy  
+**Gunaj0517**
+
+<img src="https://github-readme-stats-zeta-taupe-57.vercel.app/api?username=Gunaj0517&show_icons=true&theme=radical&rank_icon=github" width="100%" />
+
+</td>
+</tr>
 </table>
 
+</div>
 ---
+-->
 
 ### 🛠️ Tech Stack & Expertise
 
